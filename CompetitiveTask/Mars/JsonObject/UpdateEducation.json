@@ -1,0 +1,16 @@
+﻿[
+  {
+    "country": "Colombia",
+    "university": "LPU",
+    "title": "M.Tech",
+    "degree": "Diploma",
+    "graduationYear": "2013"
+  },
+  {
+    "country": "Australia",
+    "university": "DU",
+    "title": "M.Tech",
+    "degree": "Post Graduate",
+    "graduationYear": "2016"
+  }
+]

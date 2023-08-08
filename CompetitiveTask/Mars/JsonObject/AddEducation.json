@@ -1,0 +1,23 @@
+﻿[
+  {
+    "country": "India",
+    "university": "GEHU",
+    "title": "B.Tech",
+    "degree": "Graduate",
+    "graduationYear": "2015"
+  },
+  {
+    "country": "Australia",
+    "university": "DU",
+    "title": "M.Tech",
+    "degree": "Post Graduate",
+    "graduationYear": "2016"
+  },
+  {
+    "country": "China",
+    "university": "Panthnagar",
+    "title": "M.A",
+    "degree": "Post Grduate",
+    "graduationYear": "2017"
+  }
+]

@@ -1,0 +1,37 @@
+﻿[
+  {
+    "country": "Algeria",
+    "university": "",
+    "title": "B.Sc",
+    "degree": "Graduate",
+    "graduationYear": "2014"
+  },
+  {
+    "country": "Algeria",
+    "university": "PU",
+    "title": "B.Sc",
+    "degree": "",
+    "graduationYear": "2014"
+  },
+  {
+    "country": "Country of College/University",
+    "university": "PU",
+    "title": "B.Sc",
+    "degree": "Graduate",
+    "graduationYear": "2014"
+  },
+  {
+    "country": "Algeria",
+    "university": "PU",
+    "title": "Title",
+    "degree": "Graduate",
+    "graduationYear": "2014"
+  },
+  {
+    "country": "Algeria",
+    "university": "PU",
+    "title": "B.Sc",
+    "degree": "Graduate",
+    "graduationYear": "Year of graduation"
+  }
+]

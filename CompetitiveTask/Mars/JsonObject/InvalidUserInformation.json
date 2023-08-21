@@ -1,0 +1,42 @@
+﻿[
+  {
+    "email": "test13@gmail.com",
+    "password": "avgvhvhv",
+    "firstName":""
+  },
+  {
+    "email": "abcygygt767",
+    "password": "test@123",
+    "firstName": ""
+  },
+  {
+    "email": "abcygygt767",
+    "password": "abcd123",
+    "firstName": ""
+  },
+  {
+    "email": "",
+    "password": "test@123",
+    "firstName": ""
+  },
+  {
+    "email": "test13@gmail.com",
+    "password": "",
+    "firstName": ""
+  },
+  {
+    "email": "",
+    "password": "",
+    "firstName": ""
+  },
+  {
+    "email": "",
+    "password": "abcdef",
+    "firstName": ""
+  },
+  {
+    "email": "test13@gmail.com ",
+    "password": "",
+    "firstName": "TestFN"
+  }
+]
